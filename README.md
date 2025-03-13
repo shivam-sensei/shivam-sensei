@@ -27,8 +27,8 @@ Coming soon...
 ---  
 
 ## 📫 Let's Connect!  
-- [LinkedIn](your-linkedin-profile)  
-- [Email](your-email)   
+- [LinkedIn](https://www.linkedin.com/in/shivam-gupta-ab609a218/)  
+- [Email](shivgupta751157@gmail.com)
 
 I'm always excited to learn, collaborate, and build something amazing. Let's connect and create something incredible together!  
 
