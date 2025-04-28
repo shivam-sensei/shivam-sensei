@@ -8,21 +8,24 @@ I'm a member of A.T.O.M (Robotics Society) at MAIT. I enjoy participating in hac
 
 ## 🚀 Projects  
 
-Coming soon...
+Atomtendo: Gaming console on ESP32 with custom LED PCB and buzzer-based music system
 
 ---  
 
 ## 🏆 Achievements  
-- 3rd place in the Line Follower Robot (LFR) competition at DTU.  
+- 3rd place in the Line Follower Robot (LFR) competition at DTU.
+- 3rd place in gallactic dodger competition at IITK.
 - MemeStorm competition winner at MAIT's Marketing Society.  
 - School Captain in the Student Council.  
 
 ---  
 
 ## 📚 Skills  
-- **Programming Languages:** Python, C++, JavaScript  
-- **Technologies & Tools:**  Git, Arduino  
-- **Soft Skills:** Leadership, Teamwork, Communication, Problem-solving  
+1.**Programming Languages**: Python, C++, Java, Verilog
+2.**Frameworks/Technologies**: Arduino, FPGA, Fusion 360, Linux
+3.**Tools**: Git, VS Code, Figma, Arduino-IDE
+4.**Other Skills**: System Design, Algorithm Development, Team Collaboration, basic knowledge of embedded systems, CAD.
+
 
 ---  
 
