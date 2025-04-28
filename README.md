@@ -21,10 +21,10 @@ Atomtendo: Gaming console on ESP32 with custom LED PCB and buzzer-based music sy
 ---  
 
 ## 📚 Skills  
-1.**Programming Languages**: Python, C++, Java, Verilog
-2.**Frameworks/Technologies**: Arduino, FPGA, Fusion 360, Linux
-3.**Tools**: Git, VS Code, Figma, Arduino-IDE
-4.**Other Skills**: System Design, Algorithm Development, Team Collaboration, basic knowledge of embedded systems, CAD.
+- **Programming Languages**: Python, C++, Java, Verilog
+- **Frameworks/Technologies**: Arduino, FPGA, Fusion 360, Linux
+- **Tools**: Git, VS Code, Figma, Arduino-IDE
+- **Other Skills**: System Design, Algorithm Development, Team Collaboration, basic knowledge of embedded systems, CAD.
 
 
 ---  
