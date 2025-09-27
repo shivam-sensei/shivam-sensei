@@ -15,8 +15,6 @@ Atomtendo: Gaming console on ESP32 with custom LED PCB and buzzer-based music sy
 ## 🏆 Achievements  
 - 3rd place in the Line Follower Robot (LFR) competition at DTU.
 - 3rd place in gallactic dodger competition at IITK.
-- MemeStorm competition winner at MAIT's Marketing Society.  
-- School Captain in the Student Council.  
 
 ---  
 
