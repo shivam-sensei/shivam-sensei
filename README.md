@@ -1,35 +1,44 @@
-# 💻 About Me  
+# About Me  
 
-Hello! I'm an aspiring software developer and tech enthusiast currently pursuing IT at Maharaja Agrasen Institute of Technology (MAIT). My interests lie in software development, AI, and robotics.  
+Hello, I’m Shivam Gupta, an Information Technology undergraduate at Maharaja Agrasen Institute of Technology (MAIT), Delhi. I am passionate about software development, robotics, embedded systems, and problem solving through technology. My key interests include software engineering, artificial intelligence, automation, and designing practical systems that create real world impact.  
 
-I'm a member of A.T.O.M (Robotics Society) at MAIT. I enjoy participating in hackathons, coding competitions, and tech fests. I love building innovative solutions to real-world problems and collaborating with like-minded people.  
-
----  
-
-## 🚀 Projects  
-
-Atomtendo: Gaming console on ESP32 with custom LED PCB and buzzer-based music system
+I am an active member of A.T.O.M, the Robotics Society at MAIT, where I work on technical projects and participate in competitive events. I enjoy hackathons, coding competitions, and collaborative environments that challenge me to continuously learn and improve.  
 
 ---  
 
-## 🏆 Achievements  
-- 3rd place in the Line Follower Robot (LFR) competition at DTU.
-- 3rd place in gallactic dodger competition at IITK.
+## Projects  
+
+### Atomtendo  
+Developed a custom gaming console powered by ESP32 featuring a self designed LED matrix PCB, responsive controls, and integrated buzzer based audio system.  
+
+### Multi Robot Warehouse Automation  
+Built an autonomous warehouse automation system using ROS2 and MQTT for task allocation, robot navigation, docking, and fleet coordination.  
+
+### RFID Smart Attendance System  
+Designed an ESP32 based RFID attendance and access control system with cloud logging, offline support, and real time alerts.  
 
 ---  
 
-## 📚 Skills  
-- **Programming Languages**: Python, C++, Java, Verilog
-- **Frameworks/Technologies**: Arduino, FPGA, Fusion 360, Linux
-- **Tools**: Git, VS Code, Figma, Arduino-IDE
-- **Other Skills**: System Design, Algorithm Development, Team Collaboration, basic knowledge of embedded systems, CAD.
+## Achievements  
 
+- Secured 3rd Place in the Line Follower Robot Competition at DTU.  
+- Secured 3rd Place in the Galactic Dodger Competition at IIT Kanpur Techfest.  
+- Qualified as Semi Finalist in the E Yantra Robotics Competition 2025.  
 
 ---  
 
-## 📫 Let's Connect!  
-- [LinkedIn](https://www.linkedin.com/in/shivam-gupta-ab609a218/)  
-- [Email](shivgupta751157@gmail.com)
+## Skills  
 
-I'm always excited to learn, collaborate, and build something amazing. Let's connect and create something incredible together!  
+- **Programming Languages:** Python, C++, Java, Verilog  
+- **Technologies:** Arduino, ROS2, ESP32, FPGA, Fusion 360, Linux  
+- **Tools:** Git, VS Code, Figma, Arduino IDE  
+- **Core Skills:** System Design, Algorithm Development, Embedded Systems, CAD Design, Team Collaboration  
 
+---  
+
+## Contact  
+
+- **LinkedIn:** [shivam-gupta](https://www.linkedin.com/in/shivam-gupta-ab609a218/)  
+- **Email:** shivgupta751157@gmail.com  
+
+I am always open to opportunities involving software development, robotics, and innovative engineering projects.  
